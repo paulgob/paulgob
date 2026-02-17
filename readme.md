@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hey, I'm Paul 👋
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand">
+# Hey, I'm Paul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand">
+
 
 </div>
 
 ---
+
+## A Propos de moi
 
 ```json
 {
@@ -18,7 +20,7 @@
 
 ---
 
-## 🌐 Réseau
+## Mes Réseaux
 
 <div align="center">
 
@@ -30,7 +32,7 @@
 
 ---
 
-## 🛠️ Compétences
+## Mes Compétences
 
 <div align="center">
 
@@ -48,16 +50,16 @@
 
 <div align="center">
 
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulgob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulgob&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=paulgob&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=paulgob&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
