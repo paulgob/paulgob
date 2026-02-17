@@ -16,11 +16,10 @@
 }
 ```
 
-<div align="center">
+<div>
 
 - All of my projects are available at [https://www.paulgobbe.fr/](https://www.paulgobbe.fr/)
 - How to reach me **pgobbe.pro@gmail.com**
-- <a href="https://twitter.com/pg_devw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pg_devw" height="30" width="40" /></a>
 
 </div>
 
@@ -39,10 +38,6 @@
 ## 📊 Stats GitHub
 
 <div align="center">
-
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulgob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulgob&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paulgob&theme=tokyonight&hide_border=true)
 
