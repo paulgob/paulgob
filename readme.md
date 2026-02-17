@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## A Propos de moi
 
 ```json
@@ -18,19 +16,13 @@
 }
 ```
 
----
-
-## Mes Réseaux
-
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/pg_devw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://paulgobbe.fr)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgobbe.pro@gmail.com)
+- All of my projects are available at [https://www.paulgobbe.fr/](https://www.paulgobbe.fr/)
+- How to reach me **pgobbe.pro@gmail.com**
+- <a href="https://twitter.com/pg_devw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pg_devw" height="30" width="40" /></a>
 
 </div>
-
----
 
 ## Mes Compétences
 
@@ -44,8 +36,6 @@
 
 </div>
 
----
-
 ## 📊 Stats GitHub
 
 <div align="center">
@@ -58,8 +48,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulgob&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
